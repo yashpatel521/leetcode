@@ -18,14 +18,16 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 - `Medium/`: Solutions to Medium problems.
 - `Hard/`: Solutions to Hard problems.
 
-## Latest Solutions (2026-03-26)
+## Solutions
 
-- [Two Sum](file:///e:/LeetCode/Easy/0001_TwoSum.js)
-- [Palindrome Number](file:///e:/LeetCode/Easy/0009_PalindromeNumber.js)
-- [Roman to Integer](file:///e:/LeetCode/Easy/0013_RomanToInteger.js)
-- [Longest Common Prefix](file:///e:/LeetCode/Easy/0014_LongestCommonPrefix.js)
-- [Valid Parentheses](file:///e:/LeetCode/Easy/0020_ValidParentheses.js)
-- [Merge Two Sorted Lists](file:///e:/LeetCode/Easy/0021_MergeTwoSortedLists.js)
+| # | Title | Difficulty | Date Completed |
+|---|-------|------------|----------------|
+| 1 | [Two Sum](file:///e:/LeetCode/Easy/0001_TwoSum.js) | Easy | 2026-03-26 |
+| 9 | [Palindrome Number](file:///e:/LeetCode/Easy/0009_PalindromeNumber.js) | Easy | 2026-03-26 |
+| 13 | [Roman to Integer](file:///e:/LeetCode/Easy/0013_RomanToInteger.js) | Easy | 2026-03-26 |
+| 14 | [Longest Common Prefix](file:///e:/LeetCode/Easy/0014_LongestCommonPrefix.js) | Easy | 2026-03-26 |
+| 20 | [Valid Parentheses](file:///e:/LeetCode/Easy/0020_ValidParentheses.js) | Easy | 2026-03-26 |
+| 21 | [Merge Two Sorted Lists](file:///e:/LeetCode/Easy/0021_MergeTwoSortedLists.js) | Easy | 2026-03-26 |
 
 ## How to use
 

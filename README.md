@@ -1,6 +1,7 @@
 # LeetCode Solutions
 
 This repository contains my solutions to LeetCode problems, organized by difficulty.
+My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 ## Progress Overview
 

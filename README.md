@@ -6,10 +6,10 @@ This repository contains my solutions to LeetCode problems, organized by difficu
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 4      |
+| **Easy**     | 5      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **4**  |
+| **Total**    | **5**  |
 
 ## Structure
 
@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, organized by difficu
 - [Palindrome Number](file:///e:/LeetCode/Easy/0009_PalindromeNumber.js)
 - [Roman to Integer](file:///e:/LeetCode/Easy/0013_RomanToInteger.js)
 - [Longest Common Prefix](file:///e:/LeetCode/Easy/0014_LongestCommonPrefix.js)
+- [Valid Parentheses](file:///e:/LeetCode/Easy/0020_ValidParentheses.js)
 
 ## How to use
 

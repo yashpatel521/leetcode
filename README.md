@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 5      |
+| **Easy**     | 6      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **5**  |
+| **Total**    | **6**  |
 
 ## Structure
 
@@ -25,6 +25,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 - [Roman to Integer](file:///e:/LeetCode/Easy/0013_RomanToInteger.js)
 - [Longest Common Prefix](file:///e:/LeetCode/Easy/0014_LongestCommonPrefix.js)
 - [Valid Parentheses](file:///e:/LeetCode/Easy/0020_ValidParentheses.js)
+- [Merge Two Sorted Lists](file:///e:/LeetCode/Easy/0021_MergeTwoSortedLists.js)
 
 ## How to use
 

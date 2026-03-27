@@ -12,12 +12,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Git Workflow**: Established a clean workflow for committing and pushing solutions with appropriate documentation.
 
 ## Day 2: March 27, 2026
-**Problems Solved:** 8 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js), [#69](file:///e:/LeetCode/Easy/0069_SqrtX.js))
+**Problems Solved:** 9 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js), [#69](file:///e:/LeetCode/Easy/0069_SqrtX.js), [#83](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js))
 
 **Experience & Learning:**
 ...
-- **Binary Search Implementation**: Successfully applied **Binary Search** to solve the "Sqrt(x)" problem. This was a direct improvement over the linear approach I considered earlier for "Search Insert Position," demonstrating how to find an integer square root in O(log x) time.
-- **Consistency**: Reached **14 total problems solved**! Today was highly productive with 8 new solutions added and documented.
+- **Linked List Traversal**: Solved "Remove Duplicates from Sorted List," which reinforced basic **Linked List** operations. Navigating with a `current` pointer and manipulating the `next` reference is a fundamental skill for more complex list problems.
+- **Consistency**: Reached **15 total problems solved**! Today has been exceptionally productive with 9 new solutions added and documented.
 
 ---
 *"Building the future of enterprise software, one line of code at a time."*

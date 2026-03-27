@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 6      |
+| **Easy**     | 7      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **6**  |
+| **Total**    | **7**  |
 
 ## Structure
 
@@ -28,6 +28,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 14 | [Longest Common Prefix](file:///e:/LeetCode/Easy/0014_LongestCommonPrefix.js) | Easy | 2026-03-26 |
 | 20 | [Valid Parentheses](file:///e:/LeetCode/Easy/0020_ValidParentheses.js) | Easy | 2026-03-26 |
 | 21 | [Merge Two Sorted Lists](file:///e:/LeetCode/Easy/0021_MergeTwoSortedLists.js) | Easy | 2026-03-26 |
+| 26 | [Remove Duplicates from Sorted Array](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js) | Easy | 2026-03-27 |
 
 ## How to use
 

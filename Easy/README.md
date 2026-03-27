@@ -10,3 +10,4 @@ Table to track problem completion dates.
 | 14 | Longest Common Prefix | 2026-03-26 |
 | 20 | Valid Parentheses | 2026-03-26 |
 | 21 | Merge Two Sorted Lists | 2026-03-26 |
+| 26 | Remove Duplicates from Sorted Array | 2026-03-27 |

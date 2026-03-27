@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 9      |
+| **Easy**     | 10      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **9**  |
+| **Total**    | **10**  |
 
 ## Structure
 
@@ -31,6 +31,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 26 | [Remove Duplicates from Sorted Array](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js) | Easy | 2026-03-27 |
 | 27 | [Remove Element](file:///e:/LeetCode/Easy/0027_RemoveElement.js) | Easy | 2026-03-27 |
 | 28 | [Find the Index of the First Occurrence in a String](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js) | Easy | 2026-03-27 |
+| 35 | [Search Insert Position](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js) | Easy | 2026-03-27 |
 
 ## How to use
 

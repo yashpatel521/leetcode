@@ -16,3 +16,4 @@ Table to track problem completion dates.
 | 35 | Search Insert Position | 2026-03-27 |
 | 58 | Length of Last Word | 2026-03-27 |
 | 66 | Plus One | 2026-03-27 |
+| 67 | Add Binary | 2026-03-27 |

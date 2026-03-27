@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 12      |
+| **Easy**     | 13      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **12**  |
+| **Total**    | **13**  |
 
 ## Structure
 
@@ -34,6 +34,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 35 | [Search Insert Position](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js) | Easy | 2026-03-27 |
 | 58 | [Length of Last Word](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js) | Easy | 2026-03-27 |
 | 66 | [Plus One](file:///e:/LeetCode/Easy/0066_PlusOne.js) | Easy | 2026-03-27 |
+| 67 | [Add Binary](file:///e:/LeetCode/Easy/0067_AddBinary.js) | Easy | 2026-03-27 |
 
 ## How to use
 

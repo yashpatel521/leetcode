@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 10      |
+| **Easy**     | 11      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **10**  |
+| **Total**    | **11**  |
 
 ## Structure
 
@@ -32,6 +32,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 27 | [Remove Element](file:///e:/LeetCode/Easy/0027_RemoveElement.js) | Easy | 2026-03-27 |
 | 28 | [Find the Index of the First Occurrence in a String](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js) | Easy | 2026-03-27 |
 | 35 | [Search Insert Position](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js) | Easy | 2026-03-27 |
+| 58 | [Length of Last Word](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js) | Easy | 2026-03-27 |
 
 ## How to use
 

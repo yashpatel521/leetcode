@@ -26,15 +26,8 @@ var addBinary = function (a, b) {
     while (i >= 0 || j >= 0 || carry) {
         let sum = carry;
 
-        if (i >= 0) {
-            sum += +a[i];
-            i--;
-        }
-
-        if (j >= 0) {
-            sum += +b[j];
-            j--;
-        }
+        if (i >= 0) sum += +a[i--];
+        if (j >= 0) sum += +b[j--];
 
         result = (sum % 2) + result; // add bit
         carry = Math.floor(sum / 2); // carry

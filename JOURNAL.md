@@ -12,12 +12,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Git Workflow**: Established a clean workflow for committing and pushing solutions with appropriate documentation.
 
 ## Day 2: March 27, 2026
-**Problems Solved:** 6 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js))
+**Problems Solved:** 7 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js))
 
 **Experience & Learning:**
 ...
-- **Array Manipulation**: The "Plus One" problem introduced a scenario where the array length might need to increase. Practiced using **`unshift()`** to handle the carry-over at the most significant digit.
-- **Consistency**: Reached **12 total problems solved**! The habit of documenting and pushing every solution is really helping track my progress.
+- **Binary & Bit Simulation**: Implemented "Add Binary" using a simulation of manual addition with a carry. This reinforced the logic of base-2 arithmetic and how to handle strings of unequal lengths by iterating with multiple pointers.
+- **Consistency**: Reached **13 total problems solved**! The habit of documenting and pushing every solution is really helping track my progress.
 
 ---
 *"Building the future of enterprise software, one line of code at a time."*

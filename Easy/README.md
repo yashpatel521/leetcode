@@ -15,3 +15,4 @@ Table to track problem completion dates.
 | 28 | Find the Index of the First Occurrence in a String | 2026-03-27 |
 | 35 | Search Insert Position | 2026-03-27 |
 | 58 | Length of Last Word | 2026-03-27 |
+| 66 | Plus One | 2026-03-27 |

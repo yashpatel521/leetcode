@@ -12,12 +12,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Git Workflow**: Established a clean workflow for committing and pushing solutions with appropriate documentation.
 
 ## Day 2: March 27, 2026
-**Problems Solved:** 9 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js), [#69](file:///e:/LeetCode/Easy/0069_SqrtX.js), [#83](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js))
+**Problems Solved:** 10 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js), [#69](file:///e:/LeetCode/Easy/0069_SqrtX.js), [#83](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js), [#88](file:///e:/LeetCode/Easy/0088_MergeSortedArray.js))
 
 **Experience & Learning:**
 ...
-- **Linked List Traversal**: Solved "Remove Duplicates from Sorted List," which reinforced basic **Linked List** operations. Navigating with a `current` pointer and manipulating the `next` reference is a fundamental skill for more complex list problems.
-- **Consistency**: Reached **15 total problems solved**! Today has been exceptionally productive with 9 new solutions added and documented.
+- **In-Place Merging**: Mastered the technique of merging two sorted arrays in-place by iterating backwards. This prevents overwriting data in the first array and is highly efficient (O(1) space).
+- **Consistency**: Reached **16 total problems solved**! Today has been legendary with 10 new solutions documented in a single day.
 
 ---
 *"Building the future of enterprise software, one line of code at a time."*

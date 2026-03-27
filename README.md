@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 15      |
+| **Easy**     | 16      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **15**  |
+| **Total**    | **16**  |
 
 ## Structure
 
@@ -37,6 +37,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 67 | [Add Binary](file:///e:/LeetCode/Easy/0067_AddBinary.js) | Easy | 2026-03-27 |
 | 69 | [Sqrt(x)](file:///e:/LeetCode/Easy/0069_SqrtX.js) | Easy | 2026-03-27 |
 | 83 | [Remove Duplicates from Sorted List](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js) | Easy | 2026-03-27 |
+| 88 | [Merge Sorted Array](file:///e:/LeetCode/Easy/0088_MergeSortedArray.js) | Easy | 2026-03-27 |
 
 ## How to use
 

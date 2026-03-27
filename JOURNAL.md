@@ -12,12 +12,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Git Workflow**: Established a clean workflow for committing and pushing solutions with appropriate documentation.
 
 ## Day 2: March 27, 2026
-**Problems Solved:** 7 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js))
+**Problems Solved:** 8 ([#26](file:///e:/LeetCode/Easy/0026_RemoveDuplicatesFromSortedArray.js), [#27](file:///e:/LeetCode/Easy/0027_RemoveElement.js), [#28](file:///e:/LeetCode/Easy/0028_FindIndexFirstOccurrence.js), [#35](file:///e:/LeetCode/Easy/0035_SearchInsertPosition.js), [#58](file:///e:/LeetCode/Easy/0058_LengthOfLastWord.js), [#66](file:///e:/LeetCode/Easy/0066_PlusOne.js), [#67](file:///e:/LeetCode/Easy/0067_AddBinary.js), [#69](file:///e:/LeetCode/Easy/0069_SqrtX.js))
 
 **Experience & Learning:**
 ...
-- **Binary & Bit Simulation**: Implemented "Add Binary" using a simulation of manual addition with a carry. This reinforced the logic of base-2 arithmetic and how to handle strings of unequal lengths by iterating with multiple pointers.
-- **Consistency**: Reached **13 total problems solved**! The habit of documenting and pushing every solution is really helping track my progress.
+- **Binary Search Implementation**: Successfully applied **Binary Search** to solve the "Sqrt(x)" problem. This was a direct improvement over the linear approach I considered earlier for "Search Insert Position," demonstrating how to find an integer square root in O(log x) time.
+- **Consistency**: Reached **14 total problems solved**! Today was highly productive with 8 new solutions added and documented.
 
 ---
 *"Building the future of enterprise software, one line of code at a time."*

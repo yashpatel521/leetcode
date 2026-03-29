@@ -22,12 +22,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 ---
 
 ## Day 3: March 29, 2026
-**Problems Solved:** 5 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js), [#94](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js), [#100](file:///e:/LeetCode/Easy/0100_SameTree.js), [#101](file:///e:/LeetCode/Easy/0101_SymmetricTree.js), [#2](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js))
+**Problems Solved:** 6 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js), [#94](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js), [#100](file:///e:/LeetCode/Easy/0100_SameTree.js), [#101](file:///e:/LeetCode/Easy/0101_SymmetricTree.js), [#2](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js), [#3](file:///e:/LeetCode/Medium/0003_LongestSubstringWithoutRepeatingCharacters.js))
 
 **Experience & Learning:**
 - **Dynamic Programming (DP)**: Solved "Climbing Stairs," which is a classic introduction to DP. It was interesting to see how the problem breaks down into smaller sub-problems. It's essentially the Fibonacci sequence where each step is the sum of the ways to reach the two previous steps. 
 - **Tree Structures**: Added "Binary Tree Inorder Traversal," "Same Tree," and "Symmetric Tree." These problems highlighted the power of **Recursion** for traversing and comparing hierarchical structures. The "mirror image" logic for symmetry was a direct extension of the "same tree" comparison.
-- **First Medium Problem**: Cracked "Add Two Numbers," my first Medium-level solution in this repo! Handling carries while traversing two linked lists is a great exercise in pointer management and edge-case handling (like a final carry after both lists are exhausted).
-- **Consistency**: Reached a total of **21 problems solved**. Moving into the Medium difficulty level is a significant step forward in my problem-solving journey.
+- **Sliding Window**: Mastered the **Sliding Window** technique with "Longest Substring Without Repeating Characters." Using a `Set` to track the current unique sequence and shrinking the window from the left is an elegant solution to an $O(n)$ problem.
+- **Medium Level**: Feeling more confident with Medium problems. Reached a total of **22 problems solved**!
 
 *"Building the future of enterprise software, one line of code at a time."*

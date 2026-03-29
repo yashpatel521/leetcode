@@ -8,9 +8,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | Difficulty | Solved |
 |------------|--------|
 | **Easy**     | 20      |
-| **Medium**   | 2      |
+| **Medium**   | 3      |
 | **Hard**     | 0      |
-| **Total**    | **22**  |
+| **Total**    | **23**  |
 
 ## Structure
 
@@ -44,6 +44,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 101 | [Symmetric Tree](file:///e:/LeetCode/Easy/0101_SymmetricTree.js) | Easy | 2026-03-29 |
 | 2 | [Add Two Numbers](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js) | Medium | 2026-03-29 |
 | 3 | [Longest Substring Without Repeating Characters](file:///e:/LeetCode/Medium/0003_LongestSubstringWithoutRepeatingCharacters.js) | Medium | 2026-03-29 |
+| 5 | [Longest Palindromic Substring](file:///e:/LeetCode/Medium/0005_LongestPalindromicSubstring.js) | Medium | 2026-03-29 |
 
 ## How to use
 

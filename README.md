@@ -12,6 +12,13 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | **Hard**     | 0      |
 | **Total**    | **23**  |
 
+## Interactive Dashboard 🚀
+We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
+
+**Experience it:**
+1.  Open [index.html](file:///e:/LeetCode/index.html) in your browser.
+2.  *Note: To allow the dashboard to load data, please serve it using a local HTTP server (e.g., VS Code Live Server or `npx serve`).*
+
 ## Structure
 
 - `Easy/`: [Solutions to Easy problems](file:///e:/LeetCode/Easy/README.md).

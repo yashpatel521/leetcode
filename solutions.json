@@ -1,0 +1,145 @@
+{
+  "Easy": [
+    {
+      "id": "0001",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "file": "Easy/0001_TwoSum.js"
+    },
+    {
+      "id": "0009",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "file": "Easy/0009_PalindromeNumber.js"
+    },
+    {
+      "id": "0013",
+      "title": "Roman To Integer",
+      "difficulty": "Easy",
+      "file": "Easy/0013_RomanToInteger.js"
+    },
+    {
+      "id": "0014",
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "file": "Easy/0014_LongestCommonPrefix.js"
+    },
+    {
+      "id": "0020",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "file": "Easy/0020_ValidParentheses.js"
+    },
+    {
+      "id": "0021",
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "file": "Easy/0021_MergeTwoSortedLists.js"
+    },
+    {
+      "id": "0026",
+      "title": "Remove Duplicates From Sorted Array",
+      "difficulty": "Easy",
+      "file": "Easy/0026_RemoveDuplicatesFromSortedArray.js"
+    },
+    {
+      "id": "0027",
+      "title": "Remove Element",
+      "difficulty": "Easy",
+      "file": "Easy/0027_RemoveElement.js"
+    },
+    {
+      "id": "0028",
+      "title": "Find Index First Occurrence",
+      "difficulty": "Easy",
+      "file": "Easy/0028_FindIndexFirstOccurrence.js"
+    },
+    {
+      "id": "0035",
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "file": "Easy/0035_SearchInsertPosition.js"
+    },
+    {
+      "id": "0058",
+      "title": "Length Of Last Word",
+      "difficulty": "Easy",
+      "file": "Easy/0058_LengthOfLastWord.js"
+    },
+    {
+      "id": "0066",
+      "title": "Plus One",
+      "difficulty": "Easy",
+      "file": "Easy/0066_PlusOne.js"
+    },
+    {
+      "id": "0067",
+      "title": "Add Binary",
+      "difficulty": "Easy",
+      "file": "Easy/0067_AddBinary.js"
+    },
+    {
+      "id": "0069",
+      "title": "Sqrt X",
+      "difficulty": "Easy",
+      "file": "Easy/0069_SqrtX.js"
+    },
+    {
+      "id": "0070",
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "file": "Easy/0070_ClimbingStairs.js"
+    },
+    {
+      "id": "0083",
+      "title": "Remove Duplicates From Sorted List",
+      "difficulty": "Easy",
+      "file": "Easy/0083_RemoveDuplicatesFromSortedList.js"
+    },
+    {
+      "id": "0088",
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "file": "Easy/0088_MergeSortedArray.js"
+    },
+    {
+      "id": "0094",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "file": "Easy/0094_BinaryTreeInorderTraversal.js"
+    },
+    {
+      "id": "0100",
+      "title": "Same Tree",
+      "difficulty": "Easy",
+      "file": "Easy/0100_SameTree.js"
+    },
+    {
+      "id": "0101",
+      "title": "Symmetric Tree",
+      "difficulty": "Easy",
+      "file": "Easy/0101_SymmetricTree.js"
+    }
+  ],
+  "Medium": [
+    {
+      "id": "2",
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "file": "Medium/0002_AddTwoNumbers.js"
+    },
+    {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "file": "Medium/0003_LongestSubstringWithoutRepeatingCharacters.js"
+    },
+    {
+      "id": "5",
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "file": "Medium/0005_LongestPalindromicSubstring.js"
+    }
+  ],
+  "Hard": []
+}

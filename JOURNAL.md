@@ -22,11 +22,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 ---
 
 ## Day 3: March 29, 2026
-**Problems Solved:** 1 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js))
+**Problems Solved:** 2 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js), [#94](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js))
 
 **Experience & Learning:**
 - **Dynamic Programming (DP)**: Solved "Climbing Stairs," which is a classic introduction to DP. It was interesting to see how the problem breaks down into smaller sub-problems. It's essentially the Fibonacci sequence where each step is the sum of the ways to reach the two previous steps. 
-- **Space Optimization**: Again, used the optimized $O(1)$ space approach by only keeping track of the last two results (`p1` and `p2`). This is a key habit I'm building—thinking about space complexity even for Easy problems.
-- **Consistency**: Back at it after a short break! Reaching **17 total solved** and maintaining the habit is the goal.
+- **Tree Traversal**: Added "Binary Tree Inorder Traversal," my first tree problem in this repository. It’s a great refresher on **Recursion** and the Left-Root-Right visit order.
+- **Space Optimization**: Again, used the optimized $O(1)$ space approach for DP. This is a key habit I'm building—thinking about space complexity even for Easy problems.
+- **Consistency**: Maintaining momentum on Day 3 with **18 total problems solved**. The goal is to keep the streak alive!
 
 *"Building the future of enterprise software, one line of code at a time."*

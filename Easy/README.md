@@ -21,3 +21,4 @@ Table to track problem completion dates.
 | 83 | Remove Duplicates from Sorted List | 2026-03-27 |
 | 88 | Merge Sorted Array | 2026-03-27 |
 | 70 | Climbing Stairs | 2026-03-29 |
+| 94 | Binary Tree Inorder Traversal | 2026-03-29 |

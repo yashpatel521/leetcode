@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 17      |
+| **Easy**     | 18      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **17**  |
+| **Total**    | **18**  |
 
 ## Structure
 
@@ -39,6 +39,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 83 | [Remove Duplicates from Sorted List](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js) | Easy | 2026-03-27 |
 | 88 | [Merge Sorted Array](file:///e:/LeetCode/Easy/0088_MergeSortedArray.js) | Easy | 2026-03-27 |
 | 70 | [Climbing Stairs](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js) | Easy | 2026-03-29 |
+| 94 | [Binary Tree Inorder Traversal](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js) | Easy | 2026-03-29 |
 
 ## How to use
 

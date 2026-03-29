@@ -15,9 +15,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
 
-**Experience it:**
-1.  Open [index.html](file:///e:/LeetCode/index.html) in your browser.
-2.  *Note: To allow the dashboard to load data, please serve it using a local HTTP server (e.g., VS Code Live Server or `npx serve`).*
+**Experience it Live:** [https://yashpatel521.github.io/leetcode/](https://yashpatel521.github.io/leetcode/)
+
+*(Alternatively, you can open `index.html` locally to view it offline!)*
 
 ## Structure
 

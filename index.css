@@ -63,19 +63,103 @@ aside {
     border-bottom: 1px solid var(--border-color);
 }
 
-.sidebar-header h1 {
-    font-size: 1.25rem;
-    font-weight: 700;
-    color: var(--accent-blue);
+.profile-info {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
+    margin-bottom: 12px;
 }
 
-.sidebar-header p {
+.avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: #fff;
+    box-shadow: 0 0 15px rgba(122, 162, 247, 0.4);
+}
+
+.user-details h1 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+}
+
+.user-details p {
     font-size: 0.8rem;
+    color: var(--accent-purple);
+    margin: 0;
+}
+
+.tagline {
+    font-size: 0.75rem;
+    font-style: italic;
     color: var(--text-secondary);
-    margin-top: 4px;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+.stats-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.stat-item {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition);
+}
+
+.stat-item:hover {
+    background: rgba(255, 255, 255, 0.08);
+    transform: translateY(-2px);
+}
+
+.stat-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.easy-label { color: var(--easy-color); }
+.medium-label { color: var(--medium-color); }
+.hard-label { color: var(--hard-color); }
+
+.stat-value {
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: #fff;
+}
+
+.total-solved {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    background: rgba(122, 162, 247, 0.1);
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid rgba(122, 162, 247, 0.2);
+}
+
+.total-solved strong {
+    color: var(--accent-blue);
+    font-size: 1rem;
 }
 
 .solution-list {

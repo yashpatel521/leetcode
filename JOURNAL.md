@@ -22,12 +22,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 ---
 
 ## Day 3: March 29, 2026
-**Problems Solved:** 3 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js), [#94](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js), [#100](file:///e:/LeetCode/Easy/0100_SameTree.js))
+**Problems Solved:** 4 ([#70](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js), [#94](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js), [#100](file:///e:/LeetCode/Easy/0100_SameTree.js), [#101](file:///e:/LeetCode/Easy/0101_SymmetricTree.js))
 
 **Experience & Learning:**
 - **Dynamic Programming (DP)**: Solved "Climbing Stairs," which is a classic introduction to DP. It was interesting to see how the problem breaks down into smaller sub-problems. It's essentially the Fibonacci sequence where each step is the sum of the ways to reach the two previous steps. 
-- **Tree Structures**: Added "Binary Tree Inorder Traversal" and "Same Tree." These problems highlighted the power of **Recursion** for traversing and comparing hierarchical structures. The base cases (null checks, mismatch detection) are the most critical part of the logic.
+- **Tree Structures**: Added "Binary Tree Inorder Traversal," "Same Tree," and "Symmetric Tree." These problems highlighted the power of **Recursion** for traversing and comparing hierarchical structures. The "mirror image" logic for symmetry was a direct extension of the "same tree" comparison.
 - **Space Optimization**: Again, used the optimized $O(1)$ space approach for DP. This is a key habit I'm building—thinking about space complexity even for Easy problems.
-- **Consistency**: Maintaining momentum on Day 3 with **19 total problems solved**. Tree problems are becoming more intuitive!
+- **Consistency**: Reached **20 total problems solved**! Maintaining strong momentum on Day 3. Tree problems are becoming more intuitive!
 
 *"Building the future of enterprise software, one line of code at a time."*

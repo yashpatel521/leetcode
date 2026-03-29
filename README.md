@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 16      |
+| **Easy**     | 17      |
 | **Medium**   | 0      |
 | **Hard**     | 0      |
-| **Total**    | **16**  |
+| **Total**    | **17**  |
 
 ## Structure
 
@@ -38,6 +38,7 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | 69 | [Sqrt(x)](file:///e:/LeetCode/Easy/0069_SqrtX.js) | Easy | 2026-03-27 |
 | 83 | [Remove Duplicates from Sorted List](file:///e:/LeetCode/Easy/0083_RemoveDuplicatesFromSortedList.js) | Easy | 2026-03-27 |
 | 88 | [Merge Sorted Array](file:///e:/LeetCode/Easy/0088_MergeSortedArray.js) | Easy | 2026-03-27 |
+| 70 | [Climbing Stairs](file:///e:/LeetCode/Easy/0070_ClimbingStairs.js) | Easy | 2026-03-29 |
 
 ## How to use
 

@@ -20,3 +20,4 @@ Table to track problem completion dates.
 | 69 | Sqrt(x) | 2026-03-27 |
 | 83 | Remove Duplicates from Sorted List | 2026-03-27 |
 | 88 | Merge Sorted Array | 2026-03-27 |
+| 70 | Climbing Stairs | 2026-03-29 |

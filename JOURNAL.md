@@ -31,4 +31,14 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Expand Around Center**: Solved "Longest Palindromic Substring" by expanding from each character (odd length) and each gap between characters (even length). This is an intuitive $O(n^2)$ solution that reinforces symmetry concepts from the earlier tree problems. 
 - **Milestone 23**: Reached a total of **23 problems solved**. Today has been incredibly productive with a strong mix of Easy and Medium problems, plus a major repository cleanup!
 
+---
+
+## Day 4: March 30, 2026
+**Problems Solved:** 2 ([#7](file:///e:/LeetCode/Medium/0007_ReverseInteger.js), [#8](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js))
+
+**Experience & Learning:**
+- **Integer Manipulation**: Solved two classic medium problems: "Reverse Integer" and "String to Integer (atoi)". Both of these required careful consideration of 32-bit signed integer boundaries (`-2147483648` to `2147483647`).
+- **Edge Cases**: In `atoi`, I learned that string parsing problems are 90% edge-cases. Dealing with leading whitespaces, negative/positive signs, correctly stopping at non-digit characters, and bounding the final result really reinforced the importance of step-by-step state tracking.
+- **Milestone**: Reached **25 total problems solved**! Finding a steady rhythm with Medium-difficulty challenges.
+
 *"Building the future of enterprise software, one line of code at a time."*

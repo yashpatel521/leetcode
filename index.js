@@ -16,6 +16,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // Use the global SOLUTIONS object defined in data.js
     if (typeof SOLUTIONS !== 'undefined') {
         renderSidebar(SOLUTIONS);
+        
+        // Dynamically compute and render stats
+        const easyCount = (SOLUTIONS['Easy'] || []).length;
+        const mediumCount = (SOLUTIONS['Medium'] || []).length;
+        const hardCount = (SOLUTIONS['Hard'] || []).length;
+        const totalCount = easyCount + mediumCount + hardCount;
+
+        document.getElementById('stat-easy').textContent = `Easy: ${easyCount}`;
+        document.getElementById('stat-medium').textContent = `Medium: ${mediumCount}`;
+        document.getElementById('stat-hard').textContent = `Hard: ${hardCount}`;
+        document.getElementById('stat-total').textContent = `Total: ${totalCount}`;
+        
     } else {
         sidebarList.innerHTML = '<div class="error" style="color: var(--hard-color); padding: 20px;">Error: data.js not found.</div>';
     }

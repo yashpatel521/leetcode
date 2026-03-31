@@ -34,11 +34,12 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 ---
 
 ## Day 4: March 30, 2026
-**Problems Solved:** 2 ([#7](file:///e:/LeetCode/Medium/0007_ReverseInteger.js), [#8](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js))
+**Problems Solved:** 3 ([#6](file:///e:/LeetCode/Medium/0006_ZigzagConversion.js), [#7](file:///e:/LeetCode/Medium/0007_ReverseInteger.js), [#8](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js))
 
 **Experience & Learning:**
+- **String & Array Manipulation**: Tackled "Zigzag Conversion," manipulating rows and arrays using a bidirectional pointer (`direction`). It was a clever way to simulate downward and upward diagonal reads without complex 2D matrices.
 - **Integer Manipulation**: Solved two classic medium problems: "Reverse Integer" and "String to Integer (atoi)". Both of these required careful consideration of 32-bit signed integer boundaries (`-2147483648` to `2147483647`).
 - **Edge Cases**: In `atoi`, I learned that string parsing problems are 90% edge-cases. Dealing with leading whitespaces, negative/positive signs, correctly stopping at non-digit characters, and bounding the final result really reinforced the importance of step-by-step state tracking.
-- **Milestone**: Reached **25 total problems solved**! Finding a steady rhythm with Medium-difficulty challenges.
+- **Milestone**: Reached **26 total problems solved**! Finding a steady rhythm with Medium-difficulty challenges.
 
 *"Building the future of enterprise software, one line of code at a time."*

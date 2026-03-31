@@ -8,9 +8,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | Difficulty | Solved |
 |------------|--------|
 | **Easy**     | 20      |
-| **Medium**   | 5      |
+| **Medium**   | 6      |
 | **Hard**     | 0      |
-| **Total**    | **25**  |
+| **Total**    | **26**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -52,6 +52,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 2 | [Add Two Numbers](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js) | Medium | 2026-03-29 |
 | 3 | [Longest Substring Without Repeating Characters](file:///e:/LeetCode/Medium/0003_LongestSubstringWithoutRepeatingCharacters.js) | Medium | 2026-03-29 |
 | 5 | [Longest Palindromic Substring](file:///e:/LeetCode/Medium/0005_LongestPalindromicSubstring.js) | Medium | 2026-03-29 |
+| 6 | [Zigzag Conversion](file:///e:/LeetCode/Medium/0006_ZigzagConversion.js) | Medium | 2026-03-30 |
 | 7 | [Reverse Integer](file:///e:/LeetCode/Medium/0007_ReverseInteger.js) | Medium | 2026-03-30 |
 | 8 | [String to Integer (atoi)](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js) | Medium | 2026-03-30 |
 

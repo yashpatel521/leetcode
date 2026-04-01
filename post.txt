@@ -1,0 +1,143 @@
+# Post 1: Finally started! 🚀
+
+I finally started my LeetCode journey today. I've been thinking about it for a long time but was a bit scared to start. 
+
+Today I solved 6 problems. "Two Sum" was the first one, and it made me realize how important the small details are. I'm putting everything on GitHub so I can see my own progress.
+
+**What do you suggest I try next? Any tips for someone just starting?**
+
+Progress: 6 problems done.
+Link: https://github.com/yashpatel521/leetcode
+
+*"Building the future of enterprise software, one line of code at a time."*
+
+#HelpMeCode #BeginnerDev #LeetCodeJourney #CodeNewbie #100DaysOfCode #BuildInPublic #CodeChallenge #SoftwareEngineering #Google #Microsoft #Amazon #Apple #Meta
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# Post 2: 10 problems in one day! 🧠🔥
+
+I solved 10 LeetCode problems today! I'm pretty tired now but it feels good.
+
+"Add Binary" was really hard for me. I got stuck on the math part for a while and almost gave up. But I kept trying and finally got it to work. 
+
+I also learned how to use **Binary Search** for square roots. It made the code so much faster. Another thing I learned was to work **backwards** when merging arrays—it's much easier that way.
+
+**I’d love your suggestions: What do you do when you get stuck and feel frustrated? Do you keep going or take a break?**
+
+Total Solved: 16 (10 today!)
+Gonna keep going.
+
+*"Building the future of enterprise software, one line of code at a time."*
+
+#Algorithms #DataStructures #LeetCode #ProblemSolving #SoftwareDeveloper #CodingCommunity #TechJourney #CareerGrowth #JavaScript #DailyCoding #75DaysHard #BuildInPublic #FAANG #MANGA #TargetGoogle #TargetMicrosoft #CareerInTech
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# Post 3: Milestone 23 & Launching My Interactive Dashboard! 🏆🚀
+
+I just hit another major milestone in my LeetCode journey: **23 problems solved!** 
+
+Today I tackled some challenging Medium problems, diving deep into the **Sliding Window** and **Expand Around Center** techniques for substrings and palindromes. But writing code wasn't enough. I wanted a better way to visualize my progress than just reading through GitHub files.
+
+So, I built one. I'm excited to share my new **Interactive LeetCode Dashboard**! 💻 It's a fully automated, glassmorphic UI that extracts my execution flow tables, tracks my categorized stats, and logs my daily progress in a beautiful vertical timeline. 
+
+This isn't just about solving problems; it's about building tools to reinforce learning.
+
+**I’d love your thoughts: Do you document your problem-solving journey visually? Has building tools around your learning process helped you grow? Let's connect and discuss building better developer portfolios!**
+
+Total Solved: 23 🏆
+Check out the LIVE Dashboard: https://yashpatel521.github.io/leetcode/
+Check out the Repo: https://github.com/yashpatel521/leetcode
+
+*"Building the future of enterprise software, one line of code at a time."*
+
+#LeetCode #SoftwareEngineering #InteractiveDashboard #BuildInPublic #CareerGrowth #FAANG #TargetGoogle #TargetMicrosoft #WebDevelopment #Frontend #100DaysOfCode #TechJourney
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# Post 4: The Viral "Stop Grinding" Framework 🧠🔥
+
+I ruined my weekends grinding LeetCode... until I learned the "1-Hour Rule." 🛑
+
+After crossing 26 problems mapped out across Easy/Medium levels, I realized a hard truth:
+Solving 300 problems with poor recall is worse than mastering 30 core patterns perfectly. 
+
+Here is the exact framework top engineers use to stop memorizing and start understanding 👇
+
+❌ What "Average" Devs Do:
+- Hunt for a green checkmark ✅.
+- Stare at optimal solutions immediately when stuck.
+- Never look at the problem again.
+
+✅ What Top 1% Devs Do:
+- **The 20-Minute Struggle:** Force your brain to map out edge-cases and data structures for 20 minutes before looking at a hint. No code. Just logic logic logic.
+- **Active Recall (The Real MVP):** 24 hours later, revisit the exact same problem. Don't write code—just explain the pattern out loud. If you stumble, you don't know it yet.
+- **Execution Flows Over Code:** Track the *state* of the algorithm at every step. (This is how sliding windows and graphs become second nature).
+
+Instead of just maintaining an Excel sheet of solved problems, I decided to build a tool for myself. 
+
+I engineered an **Interactive LeetCode Dashboard** that automatically parses my solutions and extracts the exact Execution Flow Tables and patterns I used. No more blind grinding. Just pure, visible mastery. 📊🔥
+
+Check out the live dashboard here: https://yashpatel521.github.io/leetcode/
+
+Question for you all: What is the ONE pattern (Two Pointers, DP, Graphs) that took you the longest to finally "click"? Let me know below! 👇
+
+*"Building the future of enterprise software, one line of code at a time."*
+
+#SoftwareEngineering #LeetCode #CodingInterviews #TechCareers #WebDevelopment #DataStructures #Algorithms #100DaysOfCode #BuildInPublic
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# Post 5: Greedy Algorithms & Reaching 28 Problems! 🎯
+
+I just solved my 28th LeetCode problem: **Integer to Roman**! 
+
+This Medium problem was a great introduction to **Greedy Algorithms**. Instead of trying every possible combination, I used a smart approach: start with the largest Roman numeral values (1000, 900, 500, etc.) and greedily subtract them from the input number while building the result string.
+
+The key insight? Always take the largest possible symbol that fits. This ensures you get the most efficient Roman numeral representation without backtracking.
+
+**Fun fact:** Roman numerals have special subtractive notation (like IV for 4, IX for 9) which makes this problem more interesting than just simple division.
+
+**Question:** What's your favorite greedy algorithm problem? Have you used greedy approaches in real-world coding?
+
+Total Solved: 28 🏆
+Check out the solution: https://github.com/yashpatel521/leetcode
+Live Dashboard: https://yashpatel521.github.io/leetcode/
+
+*"Building the future of enterprise software, one line of code at a time."*
+
+#LeetCode #GreedyAlgorithm #RomanNumerals #ProblemSolving #SoftwareEngineering #CodingJourney #100DaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoft
+
+# Post 6: 3Sum Mastery + O(n^2) Pattern
+
+Solved #15: **3Sum** (Medium). Learned strong 2-pointer + de-duplication logic to produce unique triplets that sum to zero.
+
+This is a core interview pattern: sort, fix one item, then two-pointer scan on the remaining sorted range. The trick is skipping repeat values aggressively to keep runtime optimal and avoid duplicate results.
+
+Total Solved: 29 🏆
+Check out the solution: https://github.com/yashpatel521/leetcode
+Live Dashboard: https://yashpatel521.github.io/leetcode/
+
+*"Building the future of enterprise software, one line of code at a time."*
+# Post 7: Epic Day 5 - 3 Problems Solved! Greedy + Two Pointers + Tree Recursion 🧠🔥
+
+**MASSIVE PRODUCTIVITY DAY!** Solved **3 problems** today, hitting the **30 total solved** milestone! 🚀
+
+Here's what I conquered:
+
+🔹 **#12 Integer to Roman (Medium)**: Mastered greedy algorithms with value-symbol pairs. Always take the largest possible Roman numeral symbol that fits - pure optimization!
+
+🔹 **#15 3Sum (Medium)**: Crushed the classic two-pointer technique on sorted arrays. Sort first, then use left/right pointers to find triplets that sum to zero. Skip duplicates aggressively for O(n²) perfection.
+
+🔹 **#104 Maximum Depth of Binary Tree (Easy)**: Solidified tree recursion fundamentals. Base case: null = 0. Recursive case: max(left, right) + 1. This is the foundation of all tree algorithms!
+
+**Key Takeaway**: Today showed the power of combining different algorithmic techniques. Greedy for optimization, two-pointers for efficiency, and recursion for hierarchical data. This is how you build a complete algorithmic toolkit!
+
+Total Solved: 30 🏆
+Check out all solutions: https://github.com/yashpatel521/leetcode
+Live Dashboard: https://yashpatel521.github.io/leetcode/
+
+"Building the future of enterprise software, one line of code at a time."
+
+#LeetCode #Algorithms #GreedyAlgorithm #TwoPointers #TreeTraversal #Recursion #DataStructures #CodingJourney #100DaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoftaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoft

@@ -89,37 +89,6 @@ Question for you all: What is the ONE pattern (Two Pointers, DP, Graphs) that to
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-# Post 5: Greedy Algorithms & Reaching 28 Problems! 🎯
-
-I just solved my 28th LeetCode problem: **Integer to Roman**! 
-
-This Medium problem was a great introduction to **Greedy Algorithms**. Instead of trying every possible combination, I used a smart approach: start with the largest Roman numeral values (1000, 900, 500, etc.) and greedily subtract them from the input number while building the result string.
-
-The key insight? Always take the largest possible symbol that fits. This ensures you get the most efficient Roman numeral representation without backtracking.
-
-**Fun fact:** Roman numerals have special subtractive notation (like IV for 4, IX for 9) which makes this problem more interesting than just simple division.
-
-**Question:** What's your favorite greedy algorithm problem? Have you used greedy approaches in real-world coding?
-
-Total Solved: 28 🏆
-Check out the solution: https://github.com/yashpatel521/leetcode
-Live Dashboard: https://yashpatel521.github.io/leetcode/
-
-*"Building the future of enterprise software, one line of code at a time."*
-
-#LeetCode #GreedyAlgorithm #RomanNumerals #ProblemSolving #SoftwareEngineering #CodingJourney #100DaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoft
-
-# Post 6: 3Sum Mastery + O(n^2) Pattern
-
-Solved #15: **3Sum** (Medium). Learned strong 2-pointer + de-duplication logic to produce unique triplets that sum to zero.
-
-This is a core interview pattern: sort, fix one item, then two-pointer scan on the remaining sorted range. The trick is skipping repeat values aggressively to keep runtime optimal and avoid duplicate results.
-
-Total Solved: 29 🏆
-Check out the solution: https://github.com/yashpatel521/leetcode
-Live Dashboard: https://yashpatel521.github.io/leetcode/
-
-*"Building the future of enterprise software, one line of code at a time."*
 # Post 7: Epic Day 5 - 3 Problems Solved! Greedy + Two Pointers + Tree Recursion 🧠🔥
 
 **MASSIVE PRODUCTIVITY DAY!** Solved **3 problems** today, hitting the **30 total solved** milestone! 🚀

@@ -46,10 +46,11 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 
 ---
 ## Day 5: April 1, 2026
-**Problems Solved:** 1 ([#12](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js))
+**Problems Solved:** 2 ([#12](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js), [#15](file:///e:/LeetCode/Medium/0015_ThreeSum.js))
 
 **Experience & Learning:**
 - **Greedy Algorithm**: Solved "Integer to Roman" using a greedy approach with predefined value-symbol pairs. Starting from the largest values (1000, 900, 500, etc.) and subtracting them from the input number while building the Roman numeral string. This ensures we always use the largest possible Roman numeral symbols first, which is the optimal greedy strategy for this problem.
-- **Milestone**: Reached **28 total problems solved**! Continuing the momentum with Medium-difficulty challenges.
+- **Two Pointers + Sorting**: Solved "3Sum" with a sorted array and two-pointer technique, handling duplicates with fast skip conditions to avoid repeat triplets in the result.
+- **Milestone**: Reached **29 total problems solved**! Continuing the momentum with Medium-difficulty challenges.
 
 *"Building the future of enterprise software, one line of code at a time."*

@@ -9,3 +9,4 @@
 | 7 | Reverse Integer | 2026-03-30 |
 | 8 | String to Integer (atoi) | 2026-03-30 |
 | 11 | Container With Most Water | 2026-04-01 |
+| 12 | Integer to Roman | 2026-04-01 |

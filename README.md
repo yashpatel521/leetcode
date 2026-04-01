@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 20      |
+| **Easy**     | 21      |
 | **Medium**   | 9       |
 | **Hard**     | 0      |
-| **Total**    | **29**  |
+| **Total**    | **30**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -49,6 +49,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 94 | [Binary Tree Inorder Traversal](file:///e:/LeetCode/Easy/0094_BinaryTreeInorderTraversal.js) | Easy | 2026-03-29 |
 | 100 | [Same Tree](file:///e:/LeetCode/Easy/0100_SameTree.js) | Easy | 2026-03-29 |
 | 101 | [Symmetric Tree](file:///e:/LeetCode/Easy/0101_SymmetricTree.js) | Easy | 2026-03-29 |
+| 104 | [Maximum Depth of Binary Tree](file:///e:/LeetCode/Easy/0104_MaximumDepthOfBinaryTree.js) | Easy | 2026-04-01 |
 | 2 | [Add Two Numbers](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js) | Medium | 2026-03-29 |
 | 3 | [Longest Substring Without Repeating Characters](file:///e:/LeetCode/Medium/0003_LongestSubstringWithoutRepeatingCharacters.js) | Medium | 2026-03-29 |
 | 5 | [Longest Palindromic Substring](file:///e:/LeetCode/Medium/0005_LongestPalindromicSubstring.js) | Medium | 2026-03-29 |

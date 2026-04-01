@@ -24,3 +24,4 @@ Table to track problem completion dates.
 | 94 | Binary Tree Inorder Traversal | 2026-03-29 |
 | 100 | Same Tree | 2026-03-29 |
 | 101 | Symmetric Tree | 2026-03-29 |
+| 104 | Maximum Depth of Binary Tree | 2026-04-01 |

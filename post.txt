@@ -89,24 +89,28 @@ Question for you all: What is the ONE pattern (Two Pointers, DP, Graphs) that to
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-# Post 7: Epic Day 5 - 3 Problems Solved! Greedy + Two Pointers + Tree Recursion 🧠🔥
+# Post 5: 4 Problems Down, Heart Still Racing!
 
-**MASSIVE PRODUCTIVITY DAY!** Solved **3 problems** today, hitting the **30 total solved** milestone! 🚀
+What a day! Just crushed 4 LeetCode problems and hit 31 total solved!
 
-Here's what I conquered:
+Here's the thrill ride:
 
-🔹 **#12 Integer to Roman (Medium)**: Mastered greedy algorithms with value-symbol pairs. Always take the largest possible Roman numeral symbol that fits - pure optimization!
+🌟 Integer to Roman (#12): Greedy algorithm magic! Always grab the biggest Roman symbol that fits. Felt like cracking a secret code!
 
-🔹 **#15 3Sum (Medium)**: Crushed the classic two-pointer technique on sorted arrays. Sort first, then use left/right pointers to find triplets that sum to zero. Skip duplicates aggressively for O(n²) perfection.
+🌟 3Sum (#15): Two-pointer technique on steroids. Sort, then hunt for triplets = 0. Pure detective work!
 
-🔹 **#104 Maximum Depth of Binary Tree (Easy)**: Solidified tree recursion fundamentals. Base case: null = 0. Recursive case: max(left, right) + 1. This is the foundation of all tree algorithms!
+🌟 Letter Combinations of a Phone Number (#17): Backtracking brilliance! Recursively build all possible letter combos from phone digits. Mind-bending exploration!
 
-**Key Takeaway**: Today showed the power of combining different algorithmic techniques. Greedy for optimization, two-pointers for efficiency, and recursion for hierarchical data. This is how you build a complete algorithmic toolkit!
+🌟 Maximum Depth of Binary Tree (#104): Simple recursion beauty. Max of left/right depths + 1. Tree traversal fundamentals!
 
-Total Solved: 30 🏆
-Check out all solutions: https://github.com/yashpatel521/leetcode
-Live Dashboard: https://yashpatel521.github.io/leetcode/
+Today reminded me: combining greedy, two-pointers, backtracking, and recursion builds an unstoppable toolkit!
+
+What's your go-to algorithmic technique? Share below!
+
+Total: 31
+Solutions: https://github.com/yashpatel521/leetcode
+Dashboard: https://leetcode.com/u/yash521/
 
 "Building the future of enterprise software, one line of code at a time."
 
-#LeetCode #Algorithms #GreedyAlgorithm #TwoPointers #TreeTraversal #Recursion #DataStructures #CodingJourney #100DaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoftaysOfCode #BuildInPublic #FAANG #TargetGoogle #TargetMicrosoft
+#LeetCode #CodingJourney #Algorithms #ProblemSolving #TechLife #100DaysOfCode

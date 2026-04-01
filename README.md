@@ -8,9 +8,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | Difficulty | Solved |
 |------------|--------|
 | **Easy**     | 20      |
-| **Medium**   | 6      |
+| **Medium**   | 7      |
 | **Hard**     | 0      |
-| **Total**    | **26**  |
+| **Total**    | **27**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -55,6 +55,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 6 | [Zigzag Conversion](file:///e:/LeetCode/Medium/0006_ZigzagConversion.js) | Medium | 2026-03-30 |
 | 7 | [Reverse Integer](file:///e:/LeetCode/Medium/0007_ReverseInteger.js) | Medium | 2026-03-30 |
 | 8 | [String to Integer (atoi)](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js) | Medium | 2026-03-30 |
+| 11 | [Container With Most Water](file:///e:/LeetCode/Medium/0011_ContainerWithMostWater.js) | Medium | 2026-04-01 |
 
 ## How to use
 

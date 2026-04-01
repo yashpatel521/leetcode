@@ -46,13 +46,14 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 
 ---
 ## Day 5: April 1, 2026
-**Problems Solved:** 4 ([#12](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js), [#15](file:///e:/LeetCode/Medium/0015_ThreeSum.js), [#17](file:///e:/LeetCode/Medium/0017_LetterCombinationsOfAPhoneNumber.js), [#104](file:///e:/LeetCode/Easy/0104_MaximumDepthOfBinaryTree.js))
+**Problems Solved:** 5 ([#12](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js), [#15](file:///e:/LeetCode/Medium/0015_ThreeSum.js), [#16](file:///e:/LeetCode/Medium/0016_3SumClosest.js), [#17](file:///e:/LeetCode/Medium/0017_LetterCombinationsOfAPhoneNumber.js), [#104](file:///e:/LeetCode/Easy/0104_MaximumDepthOfBinaryTree.js))
 
 **Experience & Learning:**
 - **Greedy Algorithm**: Solved "Integer to Roman" using a greedy approach with predefined value-symbol pairs. Starting from the largest values (1000, 900, 500, etc.) and subtracting them from the input number while building the Roman numeral string. This ensures we always use the largest possible Roman numeral symbols first, which is the optimal greedy strategy for this problem.
 - **Two Pointers + Sorting**: Solved "3Sum" with a sorted array and two-pointer technique, handling duplicates with fast skip conditions to avoid repeat triplets in the result.
+- **Two Pointers + Target Tracking**: Solved "3Sum Closest" using a similar two-pointer approach but tracking the closest sum to target instead of exact matches. The key insight is maintaining the minimum absolute difference while iterating through possible combinations.
 - **Backtracking**: Solved "Letter Combinations of a Phone Number" using backtracking to generate all possible combinations. The recursive approach explores each digit's possible letters, building combinations by adding one character at a time until all digits are processed.
 - **Tree Recursion**: Solved "Maximum Depth of Binary Tree" using recursive depth-first search, calculating the maximum depth by taking the max of left and right subtrees plus one. This is a classic tree traversal pattern that demonstrates the power of recursion for hierarchical data structures.
-- **Milestone**: Reached **31 total problems solved**! Continuing the momentum with a mix of Easy and Medium challenges.
+- **Milestone**: Reached **32 total problems solved**! Continuing the momentum with a mix of Easy and Medium challenges.
 
 *"Building the future of enterprise software, one line of code at a time."*

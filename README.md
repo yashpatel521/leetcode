@@ -8,9 +8,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | Difficulty | Solved |
 |------------|--------|
 | **Easy**     | 21      |
-| **Medium**   | 10      |
+| **Medium**   | 11      |
 | **Hard**     | 0      |
-| **Total**    | **31**  |
+| **Total**    | **32**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -58,6 +58,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 8 | [String to Integer (atoi)](file:///e:/LeetCode/Medium/0008_StringToIntegerAtoi.js) | Medium | 2026-03-30 |
 | 11 | [Container With Most Water](file:///e:/LeetCode/Medium/0011_ContainerWithMostWater.js) | Medium | 2026-04-01 |
 | 15 | [3Sum](file:///e:/LeetCode/Medium/0015_ThreeSum.js) | Medium | 2026-04-01 |
+| 16 | [3Sum Closest](file:///e:/LeetCode/Medium/0016_3SumClosest.js) | Medium | 2026-04-01 |
 | 17 | [Letter Combinations of a Phone Number](file:///e:/LeetCode/Medium/0017_LetterCombinationsOfAPhoneNumber.js) | Medium | 2026-04-01 |
 | 12 | [Integer to Roman](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js) | Medium | 2026-04-01 |
 

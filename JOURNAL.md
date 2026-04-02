@@ -60,12 +60,13 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 
 ---
 ## Day 6: April 2, 2026
-**Problems Solved:** 1 ([#19](file:///e:/LeetCode/Medium/0019_RemoveNthNodeFromEndOfList.js))
+**Problems Solved:** 2 ([#19](file:///e:/LeetCode/Medium/0019_RemoveNthNodeFromEndOfList.js), [#22](file:///e:/LeetCode/Medium/0022_GenerateParentheses.js))
 
 **Experience & Learning:**
 - **Linked List Manipulation**: Solved "Remove Nth Node From End of List" using a two-pass approach. First pass counts the length, second pass finds and removes the target node. The key insight was using a dummy node to handle edge cases where the head needs to be removed.
 - **Dummy Node Pattern**: Learned the importance of dummy nodes for linked list problems. They simplify boundary conditions and make the code more robust.
-- **Follow-up Challenge**: The problem includes a one-pass solution using two pointers - fast pointer moves n+1 steps ahead, then both move together until fast reaches end. This is more efficient but requires careful pointer management.
-- **Milestone**: Reached **33 total problems solved**! Building momentum with consistent daily practice.
+- **Backtracking**: Solved "Generate Parentheses" using recursive backtracking. Key rules: add "(" until open count reaches n; add ")" when close < open. Stop when length hits 2*n.
+- **Follow-up Challenge**: The linked list problem includes a one-pass solution using two pointers - fast pointer moves n+1 steps ahead, then both move together until fast reaches end. This is more efficient but requires careful pointer management.
+- **Milestone**: Reached **34 total problems solved**! Building momentum with consistent daily practice.
 
 *"Building the future of enterprise software, one line of code at a time."*

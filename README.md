@@ -8,9 +8,9 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | Difficulty | Solved |
 |------------|--------|
 | **Easy**     | 21      |
-| **Medium**   | 12      |
+| **Medium**   | 13      |
 | **Hard**     | 0      |
-| **Total**    | **33**  |
+| **Total**    | **34**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -61,6 +61,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 16 | [3Sum Closest](file:///e:/LeetCode/Medium/0016_3SumClosest.js) | Medium | 2026-04-01 |
 | 17 | [Letter Combinations of a Phone Number](file:///e:/LeetCode/Medium/0017_LetterCombinationsOfAPhoneNumber.js) | Medium | 2026-04-01 |
 | 19 | [Remove Nth Node From End of List](file:///e:/LeetCode/Medium/0019_RemoveNthNodeFromEndOfList.js) | Medium | 2026-04-02 |
+| 22 | [Generate Parentheses](file:///e:/LeetCode/Medium/0022_GenerateParentheses.js) | Medium | 2026-04-02 |
 | 12 | [Integer to Roman](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js) | Medium | 2026-04-01 |
 
 ## How to use

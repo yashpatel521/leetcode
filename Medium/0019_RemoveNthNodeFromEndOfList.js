@@ -48,27 +48,27 @@
  * @param {number} n
  * @return {ListNode}
  */
-var removeNthFromEnd = function(head, n) {
-    let length = 0;
-    let curr = head;
+var removeNthFromEnd = function (head, n) {
+  let length = 0;
+  let curr = head;
 
-    // count length
-    while (curr) {
-        length++;
-        curr = curr.next;
-    }
+  // count length
+  while (curr) {
+    length++;
+    curr = curr.next;
+  }
 
-    let dummy = new ListNode(0, head);
-    curr = dummy;
+  let dummy = new ListNode(0, head);
+  curr = dummy;
 
-    // go to node before target
-    for (let i = 0; i < length - n; i++) {
-        curr = curr.next;
-    }
+  // go to node before target
+  for (let i = 0; i < length - n; i++) {
+    curr = curr.next;
+  }
 
-    curr.next = curr.next.next;
+  curr.next = curr.next.next;
 
-    return dummy.next;
+  return dummy.next;
 };
 
 /*

@@ -12,4 +12,5 @@
 | 15 | 3Sum | 2026-04-01 |
 | 16 | 3Sum Closest | 2026-04-01 |
 | 17 | Letter Combinations of a Phone Number | 2026-04-01 |
+| 19 | Remove Nth Node From End of List | 2026-04-02 |
 | 12 | Integer to Roman | 2026-04-01 |

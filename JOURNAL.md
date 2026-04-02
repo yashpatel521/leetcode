@@ -57,3 +57,15 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Milestone**: Reached **32 total problems solved**! Continuing the momentum with a mix of Easy and Medium challenges.
 
 *"Building the future of enterprise software, one line of code at a time."*
+
+---
+## Day 6: April 2, 2026
+**Problems Solved:** 1 ([#19](file:///e:/LeetCode/Medium/0019_RemoveNthNodeFromEndOfList.js))
+
+**Experience & Learning:**
+- **Linked List Manipulation**: Solved "Remove Nth Node From End of List" using a two-pass approach. First pass counts the length, second pass finds and removes the target node. The key insight was using a dummy node to handle edge cases where the head needs to be removed.
+- **Dummy Node Pattern**: Learned the importance of dummy nodes for linked list problems. They simplify boundary conditions and make the code more robust.
+- **Follow-up Challenge**: The problem includes a one-pass solution using two pointers - fast pointer moves n+1 steps ahead, then both move together until fast reaches end. This is more efficient but requires careful pointer management.
+- **Milestone**: Reached **33 total problems solved**! Building momentum with consistent daily practice.
+
+*"Building the future of enterprise software, one line of code at a time."*

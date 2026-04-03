@@ -73,12 +73,13 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 
 ---
 ## Day 7: April 3, 2026
-**Problems Solved:** 1 ([#108](file:///e:/LeetCode/Easy/0108_ConvertSortedArrayToBinarySearchTree.js))
+**Problems Solved:** 2 ([#108](file:///e:/LeetCode/Easy/0108_ConvertSortedArrayToBinarySearchTree.js), [#121](file:///e:/LeetCode/Easy/0121_BestTimeToBuyAndSellStock.js))
 
 **Experience & Learning:**
 - **Balanced BST from Sorted Array**: Solved "Convert Sorted Array to Binary Search Tree" with mid-point recursion. This ensures balanced tree height by using middle element as current root.
 - **Divide and Conquer**: Break the array into left and right halves repeatedly, building subtree recursively. Helps guarantee O(n) build time.
-- **Recursive Confidence**: Reinforced recursion pattern for tree construction and in-order traversal behavior.
-- **Milestone**: Reached **35 total problems solved**! Continuing strong daily momentum.
+- **Stock Trade Insight**: Solved "Best Time to Buy and Sell Stock" by tracking minimum price and max difference (profit). This highlights single-scan greedy decision-making.
+- **Recursive Confidence + Greedy (O(n))**: Reinforced both recursion for trees and in-place greedy for array profit.
+- **Milestone**: Reached **36 total problems solved**! Daily momentum continues.
 
 *"Building the future of enterprise software, one line of code at a time."*

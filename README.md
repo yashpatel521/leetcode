@@ -7,10 +7,10 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 
 | Difficulty | Solved |
 |------------|--------|
-| **Easy**     | 22      |
+| **Easy**     | 23      |
 | **Medium**   | 13      |
 | **Hard**     | 0      |
-| **Total**    | **35**  |
+| **Total**    | **36**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -51,6 +51,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 101 | [Symmetric Tree](file:///e:/LeetCode/Easy/0101_SymmetricTree.js) | Easy | 2026-03-29 |
 | 104 | [Maximum Depth of Binary Tree](file:///e:/LeetCode/Easy/0104_MaximumDepthOfBinaryTree.js) | Easy | 2026-04-01 |
 | 108 | [Convert Sorted Array to Binary Search Tree](file:///e:/LeetCode/Easy/0108_ConvertSortedArrayToBinarySearchTree.js) | Easy | 2026-04-03 |
+| 121 | [Best Time to Buy and Sell Stock](file:///e:/LeetCode/Easy/0121_BestTimeToBuyAndSellStock.js) | Easy | 2026-04-03 |
 | 2 | [Add Two Numbers](file:///e:/LeetCode/Medium/0002_AddTwoNumbers.js) | Medium | 2026-03-29 |
 | 3 | [Longest Substring Without Repeating Characters](file:///e:/LeetCode/Medium/0003_LongestSubstringWithoutRepeatingCharacters.js) | Medium | 2026-03-29 |
 | 5 | [Longest Palindromic Substring](file:///e:/LeetCode/Medium/0005_LongestPalindromicSubstring.js) | Medium | 2026-03-29 |

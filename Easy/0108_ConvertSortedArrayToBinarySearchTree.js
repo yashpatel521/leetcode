@@ -34,18 +34,18 @@
  * @param {number[]} nums
  * @return {TreeNode}
  */
-var sortedArrayToBST = function(nums) {
-    function createNode(start, end) {
-        if (start > end) return null;
+var sortedArrayToBST = function (nums) {
+  function createNode(start, end) {
+    if (start > end) return null;
 
-        const mid = Math.floor((start + end) / 2);
-        const node = new TreeNode(nums[mid]);
+    const mid = Math.floor((start + end) / 2);
+    const node = new TreeNode(nums[mid]);
 
-        node.left = createNode(start, mid - 1);
-        node.right = createNode(mid + 1, end);
+    node.left = createNode(start, mid - 1);
+    node.right = createNode(mid + 1, end);
 
-        return node;
-    }
+    return node;
+  }
 
-    return createNode(0, nums.length - 1);
+  return createNode(0, nums.length - 1);
 };

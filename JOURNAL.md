@@ -107,3 +107,15 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Milestone**: Reached **38 total problems solved**! Repository now supports both algorithmic and database query problems.
 
 *"Building the future of enterprise software, one line of code at a time."*
+
+---
+## Day 10: April 4, 2026
+**Problems Solved:** 1 ([#176](file:///e:/LeetCode/SQL/Medium/0176_SecondHighestSalary.sql))
+
+**Experience & Learning:**
+- **SQL Subqueries**: Solved "Second Highest Salary" using a subquery with DISTINCT, ORDER BY DESC, LIMIT 1 OFFSET 1 to handle NULL cases automatically.
+- **OFFSET in SQL**: Learned how OFFSET skips the first N results, perfect for finding Nth highest values.
+- **NULL Handling**: Reinforced how SQL naturally returns NULL when no second highest salary exists.
+- **Milestone**: Reached **39 total problems solved**! SQL collection growing with both Easy and Medium problems.
+
+*"Building the future of enterprise software, one line of code at a time."*

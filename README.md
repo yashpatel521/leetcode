@@ -10,8 +10,8 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | **Easy**     | 23      |
 | **Medium**   | 14      |
 | **Hard**     | 0      |
-| **SQL**      | 1       |
-| **Total**    | **38**  |
+| **SQL**      | 2       |
+| **Total**    | **39**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -69,6 +69,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 29 | [Divide Two Integers](file:///e:/LeetCode/Medium/0029_DivideTwoIntegers.js) | Medium | 2026-04-04 |
 | 12 | [Integer to Roman](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js) | Medium | 2026-04-01 |
 | 175 | [Combine Two Tables](file:///e:/LeetCode/SQL/Easy/0175_CombineTwoTables.sql) | SQL | 2026-04-04 |
+| 176 | [Second Highest Salary](file:///e:/LeetCode/SQL/Medium/0176_SecondHighestSalary.sql) | SQL | 2026-04-04 |
 
 ## How to use
 

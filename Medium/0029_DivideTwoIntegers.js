@@ -28,45 +28,45 @@
  * @param {number} divisor
  * @return {number}
  */
-var divide = function(dividend, divisor) {
-    const INT_MAX = 2147483647;
-    const INT_MIN = -2147483648;
+var divide = function (dividend, divisor) {
+  const INT_MAX = 2147483647;
+  const INT_MIN = -2147483648;
 
-    // Handle overflow
-    if (dividend === INT_MIN && divisor === -1) {
-        return INT_MAX;
-    }
-    if (dividend === INT_MIN && divisor === 1) {
-        return INT_MIN;
-    }
+  // Handle overflow
+  if (dividend === INT_MIN && divisor === -1) {
+    return INT_MAX;
+  }
+  if (dividend === INT_MIN && divisor === 1) {
+    return INT_MIN;
+  }
 
-    // Work with negatives only
-    let negatives = 2;
-    if (dividend > 0) {
-        dividend = -dividend;
-        negatives--;
-    }
-    if (divisor > 0) {
-        divisor = -divisor;
-        negatives--;
-    }
+  // Work with negatives only
+  let negatives = 2;
+  if (dividend > 0) {
+    dividend = -dividend;
+    negatives--;
+  }
+  if (divisor > 0) {
+    divisor = -divisor;
+    negatives--;
+  }
 
-    let result = 0;
+  let result = 0;
 
-    while (dividend <= divisor) {
-        let temp = divisor;
-        let multiple = 1;
+  while (dividend <= divisor) {
+    let temp = divisor;
+    let multiple = 1;
 
-        // Prevent overflow when doubling
-        while (temp >= (INT_MIN >> 1) && dividend <= (temp << 1)) {
-            temp <<= 1;
-            multiple <<= 1;
-        }
-
-        dividend -= temp;
-        result += multiple;
+    // Prevent overflow when doubling
+    while (temp >= INT_MIN >> 1 && dividend <= temp << 1) {
+      temp <<= 1;
+      multiple <<= 1;
     }
 
-    // Apply sign
-    return negatives === 1 ? -result : result;
+    dividend -= temp;
+    result += multiple;
+  }
+
+  // Apply sign
+  return negatives === 1 ? -result : result;
 };

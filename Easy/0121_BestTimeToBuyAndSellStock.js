@@ -23,17 +23,17 @@
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function(prices) {
-    let minPrice = prices[0];
-    let profit = 0;
+var maxProfit = function (prices) {
+  let minPrice = prices[0];
+  let profit = 0;
 
-    for (const price of prices) {
-        if (price < minPrice) {
-            minPrice = price;
-        } else if (price - minPrice > profit) {
-            profit = price - minPrice;
-        }
+  for (const price of prices) {
+    if (price < minPrice) {
+      minPrice = price;
+    } else if (price - minPrice > profit) {
+      profit = price - minPrice;
     }
+  }
 
-    return profit;
+  return profit;
 };

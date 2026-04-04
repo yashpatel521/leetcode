@@ -83,3 +83,15 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Milestone**: Reached **36 total problems solved**! Daily momentum continues.
 
 *"Building the future of enterprise software, one line of code at a time."*
+
+---
+## Day 8: April 4, 2026
+**Problems Solved:** 1 ([#29](file:///e:/LeetCode/Medium/0029_DivideTwoIntegers.js))
+
+**Experience & Learning:**
+- **Bit Manipulation Division**: Solved "Divide Two Integers" using bit shifting for efficient division without multiplication/division operators. The key is doubling divisor and multiple until overflow risk, then subtracting.
+- **Overflow Handling**: Learned to work with negatives to avoid overflow issues, and handle edge cases like INT_MIN/-1.
+- **Bit Shifting Mastery**: Reinforced bit operations for performance optimization in constrained environments.
+- **Milestone**: Reached **37 total problems solved**! Strong April momentum.
+
+*"Building the future of enterprise software, one line of code at a time."*

@@ -10,7 +10,8 @@ My official LeetCode profile: [yash521](https://leetcode.com/u/yash521/)
 | **Easy**     | 23      |
 | **Medium**   | 14      |
 | **Hard**     | 0      |
-| **Total**    | **37**  |
+| **SQL**      | 1       |
+| **Total**    | **38**  |
 
 ## Interactive Dashboard 🚀
 We've built a premium, interactive dashboard to browse all solutions with code visualization and execution details.
@@ -24,6 +25,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 - `Easy/`: [Solutions to Easy problems](file:///e:/LeetCode/Easy/README.md).
 - `Medium/`: Solutions to Medium problems.
 - `Hard/`: Solutions to Hard problems.
+- `SQL/`: Solutions to SQL problems.
 
 ## Solutions
 
@@ -66,6 +68,7 @@ We've built a premium, interactive dashboard to browse all solutions with code v
 | 22 | [Generate Parentheses](file:///e:/LeetCode/Medium/0022_GenerateParentheses.js) | Medium | 2026-04-02 |
 | 29 | [Divide Two Integers](file:///e:/LeetCode/Medium/0029_DivideTwoIntegers.js) | Medium | 2026-04-04 |
 | 12 | [Integer to Roman](file:///e:/LeetCode/Medium/0012_IntegerToRoman.js) | Medium | 2026-04-01 |
+| 175 | [Combine Two Tables](file:///e:/LeetCode/SQL/Easy/0175_CombineTwoTables.sql) | SQL | 2026-04-04 |
 
 ## How to use
 

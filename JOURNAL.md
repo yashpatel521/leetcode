@@ -95,3 +95,15 @@ A daily log of my progress, challenges, and learnings while solving LeetCode pro
 - **Milestone**: Reached **37 total problems solved**! Strong April momentum.
 
 *"Building the future of enterprise software, one line of code at a time."*
+
+---
+## Day 9: April 4, 2026
+**Problems Solved:** 1 ([#175](file:///e:/LeetCode/SQL/Easy/0175_CombineTwoTables.sql))
+
+**Experience & Learning:**
+- **SQL LEFT JOIN**: Solved "Combine Two Tables" using LEFT JOIN to combine Person and Address tables, ensuring all persons are included even without addresses.
+- **Database Query Fundamentals**: Reinforced SQL JOIN operations and NULL handling for optional data relationships.
+- **Multi-Language Expansion**: Successfully expanded repository to include SQL problems alongside JavaScript algorithmic solutions.
+- **Milestone**: Reached **38 total problems solved**! Repository now supports both algorithmic and database query problems.
+
+*"Building the future of enterprise software, one line of code at a time."*
